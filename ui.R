@@ -5,7 +5,7 @@ dataset <- diamonds
 
 fluidPage(
 
-	titlePanel("Diamonds Explorer"),
+	titlePanel("A-DSB"),
 
 	sidebarPanel(
 
