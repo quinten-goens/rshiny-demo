@@ -1,0 +1,13 @@
+name: rshiny-demo
+title: rshiny-demo
+username:
+account: 118q8a-quinten0goens
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6798072
+bundleId: 6210230
+url: https://118q8a-quinten0goens.shinyapps.io/rshiny-demo/
+when: 1660740720.78159
+lastSyncTime: 1660740720.78161
+asMultiple: FALSE
+asStatic: FALSE
